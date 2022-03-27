@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "431803614035",
+    "firebase_url": "https://smartfuelmeter-fcc8b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smartfuelmeter-fcc8b",
+    "storage_bucket": "smartfuelmeter-fcc8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431803614035:android:11939d645ccd380a6997a6",
+        "android_client_info": {
+          "package_name": "com.begawoinc.smartfuelmeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431803614035-qbktq35dc7r1k79cu68j6fiaf38bsqbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT-vqjf1jWaLmwOrqgTtK2e5TCMQd187M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431803614035-qbktq35dc7r1k79cu68j6fiaf38bsqbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
